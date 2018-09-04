@@ -1,0 +1,6 @@
+c:\users\shifra_al\documents\visual studio 2012\Projects\SingeltonExercise\SingeltonExercise\bin\Debug\SingeltonExercise.exe.config
+C:\Users\shifra_Al\Documents\Visual Studio 2012\Projects\SingeltonExercise\SingeltonExercise\bin\Debug\SingeltonExercise.exe
+C:\Users\shifra_Al\Documents\Visual Studio 2012\Projects\SingeltonExercise\SingeltonExercise\bin\Debug\SingeltonExercise.pdb
+C:\Users\shifra_Al\Documents\Visual Studio 2012\Projects\SingeltonExercise\SingeltonExercise\obj\Debug\SingeltonExercise.csprojResolveAssemblyReference.cache
+C:\Users\shifra_Al\Documents\Visual Studio 2012\Projects\SingeltonExercise\SingeltonExercise\obj\Debug\SingeltonExercise.exe
+C:\Users\shifra_Al\Documents\Visual Studio 2012\Projects\SingeltonExercise\SingeltonExercise\obj\Debug\SingeltonExercise.pdb
